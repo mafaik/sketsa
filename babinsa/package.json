@@ -1,0 +1,27 @@
+{
+  "name": "sketsaBabinsa",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@remobile/react-native-splashscreen": "^1.0.3",
+    "moment": "^2.15.1",
+    "react": "15.3.2",
+    "react-native": "^0.34.1",
+    "react-native-calendar": "^0.8.0",
+    "react-native-device-info": "^0.9.5",
+    "react-native-maps": "^0.10.0",
+    "react-native-share": "^1.0.15",
+    "react-native-simple-router": "^0.11.1",
+    "react-native-sqlite-storage": "^3.1.2",
+    "react-native-timer-mixin": "^0.11.0",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.7.0",
+    "redux-thunk": "^2.1.0",
+    "whatwg-fetch": "^1.0.0"
+  }
+}
